@@ -9,5 +9,5 @@ You have to change also your database connection data that can be found in db.js
 <hr>
 
 # Testing 
-For testing how it work, just you can install Postman or any alternative that can do the same job or you can directly use it in your 
+For testing how it works, just you can install Postman or any alternative that can do the same job also you can directly use it in your 
 frontend App since Cors is enabled if you are using Angular.
